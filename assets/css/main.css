@@ -1,1 +1,98 @@
-/* custom styles */
+body{
+  width: 100%;
+  background-color: #19181b;
+  color: #ffffff;
+  font-family: 'Lato', sans-serif;
+}
+header{
+  width: 90%;
+  margin: 0 auto;
+}
+.name{
+  display: inline-block;
+  margin-top: 24px;
+  margin-left: 4%;
+}
+.menuBar{
+  display: inline-block;
+  float: right;
+  margin-right: 10%;
+}
+.hamburger{
+  display: inline-block;
+  float: right;
+  margin-top: 24px;
+  padding: 15px 10px;
+}
+h5{
+  display: inline-block;
+  margin-top: 24px;
+  padding: 20px 10px;
+}
+.line{
+  border-bottom: 3px solid #ffffff;
+  width: 25px;
+  margin-bottom: 6px;
+}
+.smallText{
+  font-size: 9px;
+  font-weight:lighter;
+  color: rgb(78,77,80);
+}
+
+
+
+
+
+
+
+
+
+
+.navInfo ul li {
+  display: inline;
+  padding: 40px;
+}
+.navInfo {
+  /*border: 1px solid green;*/
+  display: inline-block;
+  position: absolute;
+  top: 10px;
+  left: 830px;
+
+}
+
+.blueBar {
+  width: 100%;
+  height: 155px;
+  /*border: 1px solid pink;*/
+  background-color: rgba(135,206,250,0.4);
+}
+
+@keyframes ride {
+  from {
+    left: -20px;
+  }
+}
+
+@webkit-keyframes ride {
+  from {
+    left: -20px;
+    }
+}
+
+@moz-@keyframes ride {
+  from {
+    left: -20px;
+  }
+}
+
+
+img {
+  animation: ride 4s;
+  -webkit-animation: ride 4s;
+  -moz-animation: ride 4s;
+  position: absolute;
+  top: 88px;
+  left: 580px;
+}
