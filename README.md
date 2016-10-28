@@ -1,8 +1,6 @@
 # Project Name: WDI portfolio page
 
-github hosted page where WDI course assignments, homework and projects will be stored for Kevin Tran.
-
-He's the coolest. His laptop is not.
+github page where WDI assignments & homework will be stored
 
 <!-- ## Installation
 
