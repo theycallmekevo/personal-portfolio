@@ -2,6 +2,9 @@
 
 github page where WDI assignments & homework will be stored
 
+This page is a portfolio to show all the different projects created throughout the 12 week course. Technologies will cover Dev Environments, Javascript, Ruby on Rails, Node.js and more!
+
+https://theycallmekevo.github.io/
 <!-- ## Installation
 
 TODO: Describe the installation process
