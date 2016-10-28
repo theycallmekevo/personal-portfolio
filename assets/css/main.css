@@ -39,60 +39,68 @@ h5{
   font-weight:lighter;
   color: rgb(78,77,80);
 }
-
-
-
-
-
-
-
-
-
-
-.navInfo ul li {
-  display: inline;
-  padding: 40px;
-}
-.navInfo {
+h2{
   /*border: 1px solid green;*/
+  width: 500px;
+  margin: 30px auto;
+  padding: 0px 100px;
+  text-align: center;
+}
+.content{
+  /*border: 1px solid blue;*/
+  margin-top: 150px;
+}
+.assignments{
+  /*border: 1px solid yellow;*/
+  width: 700px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.colorBox{
   display: inline-block;
-  position: absolute;
-  top: 10px;
-  left: 830px;
-
+  width: 250px;
+  height: 280px;
+  border: 1px solid white;
+  margin: 10px 47px;
 }
-
-.blueBar {
+.one{
+  background-image: url("http://theisbothmann.com/thumbs/manna_3.0-5532-2a2233ecee6dfdb734f02f763ebca419.jpg");
+}
+.one:hover{
+  background-color:#000;
+  opacity:0.7;
+}
+.two{
+  background-image: url("http://theisbothmann.com/thumbs/dak_nyhedsbrev_efteraar_2016_7831-8c39aee14c7513959ca59881e6b412b3.jpg");
+}
+.two:hover{
+  background-color:#000;
+  opacity:0.7;
+}
+.three{
+  background-image: url("http://theisbothmann.com/thumbs/manna_6.0-6974-1-c9c241d630c8f8778fb281fbf4112995.jpg");
+}
+.three:hover{
+  background-color:#000;
+  opacity:0.7;
+}
+.four{
+  /*background-color: green;*/
+}
+.five{
+  /*background-color: green;*/
+}
+.six{
+  /*background-color: green;*/
+}
+.seven{
+  /*background-color: green;*/
+}
+.eight{
+  /*background-color: green;*/
+}
+footer{
+  background-color: grey;
   width: 100%;
-  height: 155px;
-  /*border: 1px solid pink;*/
-  background-color: rgba(135,206,250,0.4);
-}
-
-@keyframes ride {
-  from {
-    left: -20px;
-  }
-}
-
-@webkit-keyframes ride {
-  from {
-    left: -20px;
-    }
-}
-
-@moz-@keyframes ride {
-  from {
-    left: -20px;
-  }
-}
-
-
-img {
-  animation: ride 4s;
-  -webkit-animation: ride 4s;
-  -moz-animation: ride 4s;
-  position: absolute;
-  top: 88px;
-  left: 580px;
+  height: 200px;
 }
