@@ -75,7 +75,6 @@ h2{
   border: 1px solid white;
   margin: 0px 50px 75px 50px;
   transition:all 0.3s ease-in-out;
-
 }
 .one{
   background-image: url("http://theisbothmann.com/thumbs/manna_3.0-5532-2a2233ecee6dfdb734f02f763ebca419.jpg");
@@ -131,9 +130,36 @@ h2{
 .titles{
   font-size: 16px;
   display: inline-block;
-  margin: 0px 187px 0px 50px;
+  margin: 0px 191px 0px 50px;
 }
 .titles a{
+  text-decoration: none;
+  color: white;
+}
+.titles2{
+  font-size: 16px;
+  display: inline-block;
+  margin: 0px 178px 0px 50px;
+}
+.titles2 a{
+  text-decoration: none;
+  color: white;
+}
+.titles4{
+  font-size: 16px;
+  display: inline-block;
+  margin: 0px 235px 0px 50px;
+}
+.titles4 a{
+  text-decoration: none;
+  color: white;
+}
+.titles5{
+  font-size: 16px;
+  display: inline-block;
+  margin: 0px 243px 0px 50px;
+}
+.titles5 a{
   text-decoration: none;
   color: white;
 }
