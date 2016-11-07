@@ -157,9 +157,18 @@ h2{
 .titles5{
   font-size: 16px;
   display: inline-block;
-  margin: 0px 243px 0px 50px;
+  margin: 0px 184px 0px 50px;
 }
 .titles5 a{
+  text-decoration: none;
+  color: white;
+}
+.titles6{
+  font-size: 16px;
+  display: inline-block;
+  margin: 0px 0px 0px 50px;
+}
+.titles6 a{
   text-decoration: none;
   color: white;
 }
