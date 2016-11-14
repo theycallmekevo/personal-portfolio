@@ -172,6 +172,33 @@ h2{
   text-decoration: none;
   color: white;
 }
+.titles7{
+  font-size: 16px;
+  display: inline-block;
+  margin: 0px 225px 0px 50px;
+}
+.titles7 a{
+  text-decoration: none;
+  color: white;
+}
+.titles8{
+  font-size: 16px;
+  display: inline-block;
+  margin: 0px 288px 0px 50px;
+}
+.titles8 a{
+  text-decoration: none;
+  color: white;
+}
+.titles9{
+  font-size: 16px;
+  display: inline-block;
+  margin: 0px 0px 0px 50px;
+}
+.titles9 a{
+  text-decoration: none;
+  color: white;
+}
 footer{
   background-color: #2d2b25;
   width: 100%;
